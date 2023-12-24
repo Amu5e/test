@@ -1,0 +1,8 @@
+{
+    "username": "amu5e",
+    "customer_code": "5303359A",
+    "email": "1641550178@qq.com",
+    "phone": "",
+    "company": "",
+    "license": "dXNlcm5hbWV8Y3VzdG9tZXJfY29kZXxlbWFpbHxwaG9uZXxjb21wYW55,nht2VJUZlVik7+WRQabuXXmdhZvFWlaAhSXnX2w7\/Oa2Vz0JLLRvoYgJHyR6mSvSgHTfh8jUUgJeYDlgdD6iOLW3NFtHMoiNkiPVxkWHTKDFmnNPED\/nxywsocQeJ\/s0WdR9Z6Wqf5P3XeUzKo5XXKmTIU+AHRNzoXpYjaDULvc="
+}
